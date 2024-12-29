@@ -28,4 +28,4 @@ This project was collaboratively undertaken by a team of enthusiastic data enthu
 - **AnuRanjani Thota** 
 
 
-## Weather visualization transforms raw data into impactful insights, paving the way for resilient communities and better preparedness for environmental challenges.
+Weather visualization transforms raw data into impactful insights, paving the way for resilient communities and better preparedness for environmental challenges.
